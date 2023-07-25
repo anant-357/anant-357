@@ -3,9 +3,10 @@
 - 🌱 I’m currently sleeping
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me anantsh.88@gmail.com
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anant-357" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anant-357&layout=compact&langs_count=8&card_width=320" />
-
+</br>
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anant-357&theme=gruvbox" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anant-357&layout=compact&langs_count=8&card_width=320&theme=gruvbox" />
+</br>
   
 [![@anant357's Holopin board](https://holopin.me/anant357)](https://holopin.io/@anant357)
 <!---
